@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-04T17:22:30 IST" name="Default suite" finished-at="2023-11-04T17:23:27 IST" duration-ms="57024">
+    <groups>
+    </groups>
+    <test started-at="2023-11-04T17:22:30 IST" name="Default test" finished-at="2023-11-04T17:23:27 IST" duration-ms="57024">
+      <class name="com.caw.CawInterview.inputTableData">
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.caw.CawInterview.inputTableData@1622f1b]" started-at="2023-11-04T17:22:30 IST" name="driverSetUp" finished-at="2023-11-04T17:22:33 IST" duration-ms="2736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="tableData()[pri:0, instance:com.caw.CawInterview.inputTableData@1622f1b]" started-at="2023-11-04T17:22:33 IST" name="tableData" finished-at="2023-11-04T17:23:27 IST" duration-ms="54243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableData -->
+      </class> <!-- com.caw.CawInterview.inputTableData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
